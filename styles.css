@@ -1,0 +1,36 @@
+* {
+    font-family: "Arial", "Verdana", sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    font-size: 18px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.image {
+    text-align: center;
+}
+
+#homeHeading {
+    color: rgb(23, 165, 193);
+}
+
+#eggHeading {
+    color: rgb(205, 212, 0);
+}
+
+#waffleHeading {
+    color: rgb(177, 142, 27);
+}
+
+#smoothieHeading {
+    color: rgb(178, 85, 152);
+}
